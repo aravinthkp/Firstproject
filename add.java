@@ -4,7 +4,6 @@ class add{
 int a=200;
 int b=35;
 int c=a+b;
->>>>>>> feature1
-    System.out.println("hello world"+c);
+        System.out.println("hello world"+c);
     }
 }
